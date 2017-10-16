@@ -1,6 +1,7 @@
 gnome-control-center (1:3.26.1-2blankon1) uluwatu; urgency=medium
 
   * New upstream release
+    - Add new patches
 
  -- AnTo SamalonA <ansamsoftdev@gmail.com>  Mon, 16 Oct 2017 08:33:55 +0800
 
