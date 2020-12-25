@@ -1,8 +1,10 @@
 Source: gnome-control-center
 Section: gnome
 Priority: optional
-Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
-Uploaders: @GNOME_TEAM@
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Uploaders: Hanhan Husna <matcherapy@gmail.com>
+XSBC-Original-Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+XSBC-Original-Uploaders: @GNOME_TEAM@
 Build-Depends: debhelper-compat (= 12),
                libaccountsservice-dev (>= 0.6.39),
                desktop-file-utils,
