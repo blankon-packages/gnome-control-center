@@ -1,3 +1,9 @@
+gnome-control-center (1:3.26.2-1blankon1) verbeek; urgency=medium
+
+  * Update distribution logo.
+
+ -- Herpiko Dwi Aguno <herpiko@gmail.com>  Sat, 27 Mar 2021 16:59:43 +0000
+
 gnome-control-center (1:3.26.2-1blankon1) uluwatu; urgency=medium
 
   * New upstream release
