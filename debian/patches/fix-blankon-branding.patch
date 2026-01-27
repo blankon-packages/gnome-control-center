@@ -1,0 +1,13 @@
+Index: gnome-control-center-49.3/panels/background/bg-wallpapers-source.c
+===================================================================
+--- gnome-control-center-49.3.orig/panels/background/bg-wallpapers-source.c
++++ gnome-control-center-49.3/panels/background/bg-wallpapers-source.c
+@@ -108,7 +108,7 @@ load_default_bg (BgWallpapersSource *sel
+ 
+     filename = g_build_filename (system_data_dirs[i],
+ 				 "gnome-background-properties",
+-				 "adwaita.xml",
++				 "blankon-wallpapers.xml",
+ 				 NULL);
+     if (cc_background_xml_load_xml (self->xml, filename))
+       break;
