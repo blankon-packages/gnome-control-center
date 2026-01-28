@@ -1,3 +1,10 @@
+gnome-control-center (1:49.3-1blankon1) verbeek; urgency=medium
+
+  * add blankon-wallpapers
+  * update to upstream release
+
+ -- Hanhan <matcherapy@gmail.com>  Wed, 28 Jan 2026 10:16:02 +0700
+
 gnome-control-center (1:49.3-1) unstable; urgency=medium
 
   [ Jeremy Bícha ]
